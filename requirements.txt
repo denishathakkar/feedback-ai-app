@@ -3,3 +3,4 @@ openai
 azure-ai-textanalytics
 azure-cognitiveservices-speech
 python-dotenv
+gunicorn==23.0.0

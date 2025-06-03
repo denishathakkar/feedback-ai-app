@@ -87,6 +87,3 @@ def index():
 
     return render_template('index.html', sentiment=sentiment, response=response_text, audio_file=audio_file)
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5001
-    )

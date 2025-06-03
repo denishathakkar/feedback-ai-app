@@ -1,5 +1,5 @@
 Flask
-openai
+openai==0.28
 azure-ai-textanalytics
 azure-cognitiveservices-speech
 python-dotenv

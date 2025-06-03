@@ -11,7 +11,7 @@ A lightweight Flask web application that:
 
 ## 🚀 Demo
 
-👉 Deployed App: [https://feedback-ai-app.onrender.com](#) *(replace with your live URL once deployed)*
+👉 Deployed App: [https://feedback-ai-app.onrender.com](#) 
 
 ---
 
